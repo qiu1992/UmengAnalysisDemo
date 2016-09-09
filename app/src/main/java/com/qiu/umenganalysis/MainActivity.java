@@ -6,6 +6,9 @@ import android.view.View;
 
 import com.umeng.analytics.MobclickAgent;
 
+/**
+ * 增加注释
+ */
 public class MainActivity extends AppCompatActivity
 {
 
