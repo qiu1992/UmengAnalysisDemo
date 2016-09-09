@@ -7,7 +7,7 @@ import android.view.View;
 import com.umeng.analytics.MobclickAgent;
 
 /**
- * 增加注释。这个是在master提交的。
+ * 增加注释。这个是在master提交的。测试
  */
 public class MainActivity extends AppCompatActivity
 {
